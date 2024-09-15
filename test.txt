@@ -1,5 +1,0 @@
-ECHO is on.
-
-edit in line 2 with space
-
-line 7 added for cherry test
