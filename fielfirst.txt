@@ -1,2 +1,2 @@
-ECHO is on.
+renamed file
 edit in line 2
